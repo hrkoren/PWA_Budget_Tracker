@@ -1,6 +1,6 @@
 # PWA_Budget_Tracker
-PWA Online/Offline Budget Tracker
----
+
+## PWA Online/Offline Budget Tracker
 
 ## Description
 
@@ -16,8 +16,8 @@ In order to use the Budget Tracker application, you will need to follow the foll
 1. Use Command Prompt or the VS terminal to install the needed npm node packags:
    - Run 'npm install' to pull down the npm package manager.
    - Make sure you have MongoDB and Mongoose installed.
-3. Run 'npm start' in either the command prompt or VS terminal.
-4. Navigate to the localhost to view and test application.
+2. Run 'npm start' in either the command prompt or VS terminal.
+3. Navigate to the localhost to view and test application.
 
 ---
 
@@ -25,7 +25,7 @@ In order to use the Budget Tracker application, you will need to follow the foll
 
 This program can be used with permission.\
 Go to the Heroku deployment:
-[Budget Tracker](https://git.heroku.com/murmuring-waters-92136.git)
+[Budget Tracker](https://murmuring-waters-92136.herokuapp.com/)
 
 ---
 
